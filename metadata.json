@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AZ Fitness Gym Management",
+  "description": "A high-performance gym management and fitness tracking system with a charcoal and neon green aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
